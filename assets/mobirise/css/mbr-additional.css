@@ -1,5 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+
+
+
 
 
 #dropdown-menu-0 .hide-buttons [data-button] {
@@ -13,7 +17,7 @@
 #dropdown-menu-0 .dropdown-item {
   font-size: 1.2em;
   color: #ffffff;
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 #dropdown-menu-0 .navbar,
 #dropdown-menu-0 .dropdown-menu {
@@ -26,6 +30,12 @@
 }
 #dropdown-menu-0 .navbar-toggler {
   color: #ffffff;
+}
+#dropdown-menu-0 .btn {
+  font-family: 'Roboto', sans-serif;
+}
+#dropdown-menu-0 A {
+  font-family: 'Ubuntu', sans-serif;
 }
 #slider-1 P {
   color: #ffffff;
@@ -99,6 +109,17 @@
 }
 #header4-i H1 {
   color: #f7da64;
+}
+#msg-box2-j .mbr-header .mbr-header__text {
+  color: #252525;
+  text-align: center;
+}
+#msg-box2-j .mbr-article {
+  color: #252525;
+}
+#msg-box2-j .mbr-header .mbr-header__text P {
+  font-size: 23px;
+  font-family: 'Oxygen', sans-serif;
 }
 #contacts2-j B {
   color: #252525;
