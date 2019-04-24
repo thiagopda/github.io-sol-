@@ -1,0 +1,114 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+
+
+#dropdown-menu-0 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-0 .navbar-brand a {
+  font-size: 30px;
+  font-family: 'Roboto', sans-serif;
+}
+#dropdown-menu-0 .nav .link,
+#dropdown-menu-0 .dropdown-item {
+  font-size: 1.2em;
+  color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
+}
+#dropdown-menu-0 .navbar,
+#dropdown-menu-0 .dropdown-menu {
+  background: #27aae0;
+}
+#dropdown-menu-0 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-0 .dropdown-menu a:hover,
+#dropdown-menu-0 .dropdown-menu a:focus {
+  background: #1e9fd4;
+}
+#dropdown-menu-0 .navbar-toggler {
+  color: #ffffff;
+}
+#slider-1 P {
+  color: #ffffff;
+  text-align: left;
+}
+#slider-1 H1 {
+  color: #f7da64;
+  font-size: 48px;
+}
+#features1-3 .mbr-section__col .mbr-header__text {
+  text-align: center;
+}
+#content5-6 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-6 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-6 .mbr-article {
+  color: #fff;
+}
+#msg-box4-7 .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-7 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-7 .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-8 .mbr-header__text {
+  color: #000000;
+}
+#msg-box4-8 .mbr-header__subtext {
+  color: #000000;
+}
+#msg-box4-8 .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-8 .mbr-article P {
+  color: #000000;
+}
+#content5-9 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-9 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-9 .mbr-article {
+  color: #fff;
+}
+#content4-b .mbr-section__col .mbr-header__text {
+  text-align: center;
+}
+#content4-b P {
+  text-align: center;
+}
+#features1-c P {
+  text-align: center;
+}
+#header3-f H3 {
+  color: #252525;
+  text-align: center;
+}
+#header3-f P {
+  text-align: center;
+}
+#header4-i H1 {
+  color: #f7da64;
+}
+#contacts2-j B {
+  color: #252525;
+}
+#contacts2-j P {
+  color: #252525;
+}
+#contacts2-j UL {
+  color: #252525;
+}
+#footer1-k P {
+  text-align: center;
+}
